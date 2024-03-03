@@ -1,0 +1,16 @@
+{
+    "name": "Animations",
+    "rootNamespace": "TopDown2D_Demo.Animations",
+    "references": [
+        "GUID:48c492faf3682ba4296ed6eb69822b72"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

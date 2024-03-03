@@ -1,0 +1,18 @@
+{
+    "name": "Shop",
+    "rootNamespace": "TopDown2D_Demo.Shop",
+    "references": [
+        "GUID:1800c5c6ae30ee844975c9b100cae72d",
+        "GUID:8ca96152405394e458dd676b3c93ac46",
+        "GUID:dd052aaf60d0bea4a8660277f474eb81"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

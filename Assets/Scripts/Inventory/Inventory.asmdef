@@ -1,0 +1,16 @@
+{
+    "name": "Inventory",
+    "rootNamespace": "TopDown2D_Demo.Inventory",
+    "references": [
+        "GUID:fe7c5656ba08d334aab67c6af5332e04"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

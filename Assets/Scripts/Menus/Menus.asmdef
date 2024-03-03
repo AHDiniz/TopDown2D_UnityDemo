@@ -1,0 +1,16 @@
+{
+    "name": "Menus",
+    "rootNamespace": "TopDown2D_Demo.Menus",
+    "references": [
+        "GUID:8ca96152405394e458dd676b3c93ac46"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
